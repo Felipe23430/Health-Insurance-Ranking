@@ -1,6 +1,6 @@
-# 1. **Health Insurance Cross-Sell Prediction**
+# **Health Insurance Cross-Sell Prediction**
 
-## Desenvolvimento de um sistema para priorizar clientes com maior propensão à contratação de seguros automotivos
+# 1.0 Desenvolvimento de um sistema para priorizar clientes com maior propensão à contratação de seguros automotivos
 
 Os dados utilizados neste projeto foram obtidos no Kaggle, a partir do desafio **“Health Insurance Cross Sell Prediction”**.
 
