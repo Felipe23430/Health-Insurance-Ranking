@@ -8,7 +8,7 @@ Embora o contexto seja simulado, toda a concepção, implementação e avaliaç�
 
 ---
 
-# 1.2 **Objetivo**
+# 1.1 **Objetivo**
 
 Desenvolver um sistema de priorização que, a partir de **304 mil clientes**, identifique e ranqueie os que possuem a  maior **probabilidade de contratar seguro automotivo**, organizando-os por ordem de propensão de compra.
 
